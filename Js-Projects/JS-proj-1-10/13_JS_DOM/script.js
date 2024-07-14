@@ -9,7 +9,8 @@ let para3 = document.querySelector('#para3');
 let para4 = document.querySelector('#para4');
 console.log(para1, para2, para3, para4);
 
-// 3. Get all the p elements as nodeList using document.querySelectorAll(tagname) and by their tag name
+// 3. Get all the p elements as nodeList using document.querySelectorAll(tagname) and by their tag nam
+e
 let allParagraphs = document.querySelectorAll('p');
 console.log(allParagraphs);
 

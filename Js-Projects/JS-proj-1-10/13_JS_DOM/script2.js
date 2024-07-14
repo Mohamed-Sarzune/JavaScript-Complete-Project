@@ -7,6 +7,7 @@ function changeYearColor() {
 }
 
 // Function to change date and time background color every second
+
 function changeDateTimeBackgroundColor() {
   const dateTimeElement = document.getElementById('date-time');
   setInterval(() => {
