@@ -11,6 +11,7 @@ const doSomething = callback => {
   
   doSomething((err, result) => {
     if (err) {
+      
       return console.log(err)
     }
     return console.log(result)

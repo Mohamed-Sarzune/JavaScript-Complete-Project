@@ -8,6 +8,7 @@
 
 const catsAPI = 'https://api.thecatapi.com/v1/breeds';
 
+
 function convertToGrams(weight) {
     return weight * 1000; 
 }

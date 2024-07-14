@@ -10,6 +10,7 @@ const doPromise = new Promise((resolve, reject) => {
         reject('Something wrong has happened')
       }
     }, 2000)
+    
   })
   
   doPromise

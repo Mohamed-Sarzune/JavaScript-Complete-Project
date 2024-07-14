@@ -13,6 +13,7 @@ fetch(catsAPI)
     }
     return response.json();
   })
+  
   .then(data => {
     // Extract cat names from the data
     const catNames = data.map(cat => cat.name);

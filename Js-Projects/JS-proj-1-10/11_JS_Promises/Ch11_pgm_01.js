@@ -7,6 +7,7 @@ const doSomething = callback => {
     }, 2000)
   }
   
+  
   const callback = (err, result) => {
     if (err) {
       return console.log(err)

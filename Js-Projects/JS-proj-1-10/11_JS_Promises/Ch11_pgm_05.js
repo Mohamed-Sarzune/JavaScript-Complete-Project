@@ -8,6 +8,7 @@ const countriesAPI = 'https://restcountries.com/v2/all';
 
 // Fetch data from the countries API
 fetch(countriesAPI)
+
   .then(response => {
     if (!response.ok) {
       throw new Error('Network response was not ok');

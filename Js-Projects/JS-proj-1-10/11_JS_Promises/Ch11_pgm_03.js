@@ -11,6 +11,7 @@
 const doPromise = new Promise((resolve, reject) => {
     setTimeout(() => {
       const skills = ['HTML', 'CSS', 'JS']
+      
       if (skills.length > 0) {
         resolve(skills)
       } else {
