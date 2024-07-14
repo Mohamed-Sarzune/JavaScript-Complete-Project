@@ -7,6 +7,7 @@ const intersectionAB = a.filter(element => b.includes(element));
 const aMinusB = a.filter(element => !b.includes(element));
 
 console.log("Union of a and b:", unionAB);
+
 console.log("Intersection of a and b:", intersectionAB);
 console.log("Elements in a not in b:", aMinusB);
 

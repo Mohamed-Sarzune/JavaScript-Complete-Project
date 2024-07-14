@@ -10,6 +10,7 @@ console.log(map)
 Map(0) {}
 ```
 
+
 ## Creating an Map from array
 
 ```

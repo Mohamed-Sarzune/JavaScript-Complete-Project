@@ -7,6 +7,7 @@ Set is a collection of elements. Set can only contains unique elements. Let us s
 > const companies = new Set()
 > console.log(companies)
 
+
 ```Set(0) {}```
 
 ## Creating set from array

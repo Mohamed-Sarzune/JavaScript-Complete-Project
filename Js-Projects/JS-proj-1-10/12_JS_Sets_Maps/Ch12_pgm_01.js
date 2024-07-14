@@ -7,6 +7,7 @@ const emptySet = new Set();
 const set0to10 = new Set();
 for (let i = 0; i <= 10; i++) {
     set0to10.add(i);
+    
 }
 set0to10.delete(5);
 
