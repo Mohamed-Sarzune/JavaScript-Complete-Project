@@ -14,7 +14,6 @@ score2 = 108;
 console.log(score2);
 
 
-
 /* Further Adventures
  *
  * 1) Change the value assigned to score.

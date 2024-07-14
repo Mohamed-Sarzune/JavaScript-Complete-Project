@@ -12,7 +12,6 @@ message = 'Keep up the hard work';
 console.log(message);
 
 
-
 /* Further Adventures
  *
  * 1) Assign message a third value. Display it on the console.

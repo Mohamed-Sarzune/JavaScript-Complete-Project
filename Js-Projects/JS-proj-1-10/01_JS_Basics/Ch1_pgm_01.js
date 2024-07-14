@@ -1,10 +1,9 @@
 // Using console.log to display information
 
+
 console.log("Hello All");
-console.log("This is Sarzune..!");
-console.log("Nice to meet you.");
-
-
+console.log("This is Sandhya..!");
+console.log("nice to meet you.");
 
 /* Further Adventures
  *
