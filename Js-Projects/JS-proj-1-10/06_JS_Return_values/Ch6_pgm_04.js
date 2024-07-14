@@ -9,6 +9,7 @@ add = function (number1, number2) {
 var differentSum = add(15, 35);
 console.log(differentSum); // This will display 50
 
+
 // 2) Display 'The sum of 50 and 23 is 73'
 var sum = add(50, 23);
 console.log("The sum of 50 and 23 is " + sum); // This will display 'The sum of 50 and 23 is 73'

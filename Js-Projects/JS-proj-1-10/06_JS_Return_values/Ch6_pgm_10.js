@@ -12,6 +12,7 @@ var getPlayerPlace = function (playerName, playerPlace) {
     return playerName + " is in " + playerPlace;
 };
 
+
 var getBorder = function () {
     return "================================";
 };

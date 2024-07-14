@@ -9,5 +9,6 @@ fullMessage = getHelloTo("Kandra", "Dax");
 
 console.log(fullMessage);
 
+
 // You can now call getHelloTo with two names from the console.
 // For example, getHelloTo("Alice", "Bob") will return "Hello to Alice and Bob"

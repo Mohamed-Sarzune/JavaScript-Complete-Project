@@ -7,6 +7,8 @@ getMessage = function () {
 };
 
 getMyMessage = function () {
+
+    
     return "This is my custom message!";
 };
 

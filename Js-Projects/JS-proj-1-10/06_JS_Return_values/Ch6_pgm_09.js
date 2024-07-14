@@ -14,6 +14,7 @@ getPlayerHealth = function (playerName, playerHealth) {
 
 getPlayerPlace = function (playerName, playerPlace) {
     return playerName + " is in " + playerPlace;
+    
 };
 
 getBorder = function () {

@@ -9,6 +9,7 @@ getHelloTo = function (name) {
 
 fullMessage = getHelloTo("Kandra");
 
+
 console.log(fullMessage);
 
 

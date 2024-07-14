@@ -12,6 +12,7 @@ console.log(getPlayerName("Kandra"));
 
 /* Further Adventures
  *
+
  * 1) Update the getPlayerName function
  *    so it adds a prefix and suffix
  *    made up of the = character.
