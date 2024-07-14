@@ -11,6 +11,7 @@ var getTotalBill = function (itemCosts, itemCounts) {
 };
 
 var costs = [ 1.99, 4.95, 2.50, 9.87 ];
+
 var numOfEach = [ 2, 1, 5, 2 ];
 
 console.log("The total cost is $" + getTotalBill(costs, numOfEach));

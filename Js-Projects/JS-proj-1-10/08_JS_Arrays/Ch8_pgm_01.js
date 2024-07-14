@@ -8,6 +8,7 @@ names = [ "Kandra", "Dax", "Blinky" ];
 
 console.log(scores);
 console.log(names);
+
 */
 
 

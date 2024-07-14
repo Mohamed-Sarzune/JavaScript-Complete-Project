@@ -7,6 +7,7 @@ items = [
   "The Pyramids",
   "The Grand Canyon",
   "Bondi Beach"
+  
 ];
 
 showInfo = function (itemToShow) {

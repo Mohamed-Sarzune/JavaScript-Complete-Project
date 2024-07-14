@@ -10,6 +10,7 @@ console.log("The fourth score is " + scores[3]);
 
 
 
+
 /* Further Adventures
  *
  * 1) Add a fifth score to the array.

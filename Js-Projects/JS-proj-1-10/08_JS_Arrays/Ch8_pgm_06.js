@@ -10,6 +10,7 @@ items.push("Bondi Beach");
 
 console.log(items);
 
+
 removed = items.pop();
 
 console.log(removed + " was removed");

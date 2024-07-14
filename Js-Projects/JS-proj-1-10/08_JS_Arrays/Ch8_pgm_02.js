@@ -9,6 +9,7 @@ var nextYear = [ place3 ];
 
 console.log(thisYear);
 console.log(nextYear);
+
 */
 
 

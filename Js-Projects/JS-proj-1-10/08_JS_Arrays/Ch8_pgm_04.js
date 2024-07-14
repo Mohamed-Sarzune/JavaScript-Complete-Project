@@ -8,6 +8,7 @@ console.log( days[dayInWeek - 1] );
 */
 
 
+
 /* Further Adventures
  *
  * 1) Change the value of the dayInWeek variable

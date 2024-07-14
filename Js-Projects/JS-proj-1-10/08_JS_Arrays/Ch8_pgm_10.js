@@ -10,6 +10,7 @@
   
   /* Further Adventures
    *
+  
    * 1) Create an array of rectangle objects.
    *    Each rectangle should have a length
    *    property and a width property.

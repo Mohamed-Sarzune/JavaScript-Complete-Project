@@ -10,6 +10,7 @@ var displayQuestion = function (questionAndAnswer) {
         console.log(options[i] + " - " + answer);
       }
     );
+    
   };
   
   var question1 = {

@@ -5,6 +5,7 @@ var getVisitorReport = function (visitorArray, dayInWeek) {
     "Monday",
     "Tuesday",
     "Wednesday",
+    
     "Thursday",
     "Friday"
   ];
