@@ -14,6 +14,7 @@ square(1111);
 square(0.5);
 
 
+
 var cube = function (numberToCube) {
   var result;
   result = numberToCube * numberToCube * numberToCube;

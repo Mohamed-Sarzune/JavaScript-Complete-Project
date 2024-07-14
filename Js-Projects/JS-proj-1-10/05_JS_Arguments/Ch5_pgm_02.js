@@ -9,6 +9,7 @@ showMessage = function () {
     console.log(msg);  
 };
 
+
 showMessage();
 
 

@@ -9,4 +9,5 @@ showPlayerName = function (playerName) {
 
 showPlayerName("Kandra");
 showPlayerName("Dax");
+
 showPlayerName("Alexander");

@@ -11,6 +11,7 @@ var player1 = {
     name: "Kandra",
     place: "The Dungeon of Doom",
     health: 50
+    
 };
 
 var player2 = {

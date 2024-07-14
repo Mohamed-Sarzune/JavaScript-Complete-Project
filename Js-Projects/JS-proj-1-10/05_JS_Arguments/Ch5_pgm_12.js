@@ -14,6 +14,7 @@ var player1 = {
 
 var player2 = {
     name: "Dax",
+    
     place: "The Old Library",
     health: 40
 };

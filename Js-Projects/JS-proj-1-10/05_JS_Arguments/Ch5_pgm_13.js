@@ -14,6 +14,7 @@ var showPlayerName = function (playerName) {
 
 var showPlayerHealth = function (playerName, playerHealth) {
     console.log(playerName + " has health " + playerHealth);
+    
 };
 
 var showPlayerPlace = function (playerName, playerPlace) {

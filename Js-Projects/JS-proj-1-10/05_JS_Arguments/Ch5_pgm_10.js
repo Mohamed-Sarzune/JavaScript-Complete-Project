@@ -13,6 +13,7 @@ var player1 = {
     place: "The Dungeon of Doom",
     health: 50,
     healthMultiplier: 1.2  
+    
 };
 
 var player2 = {
