@@ -18,6 +18,7 @@ showMovieInfo = function () {
 showMovieInfo();
 
 
+
 /* Further Adventures
  *
  * 1) Add a call to showMovieInfo and run the program.

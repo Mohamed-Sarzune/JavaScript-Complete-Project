@@ -8,6 +8,7 @@ displayMenu = function () {
 	console.log("(2) Upload file");
 	console.log("(9) Quit");
 	console.log("(0) clear");
+	
 	console.log("(3) create");
 };
 

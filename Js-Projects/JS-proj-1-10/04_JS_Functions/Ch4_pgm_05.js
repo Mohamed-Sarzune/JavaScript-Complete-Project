@@ -9,6 +9,7 @@ var result;
 number1 = 30;
 number2 = 45;
 
+
 findTotal = function () {
 	result = number1 + number2;
 };

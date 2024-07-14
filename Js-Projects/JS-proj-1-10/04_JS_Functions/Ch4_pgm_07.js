@@ -10,6 +10,7 @@ findTotal = function () {
 	result = number1 + number2 + number3;
 };
 
+
 findTotal();
 
 console.log(number1 + " + " + number2 + " + " +number3 + " = " + result);

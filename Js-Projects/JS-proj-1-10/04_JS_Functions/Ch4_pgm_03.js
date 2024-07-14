@@ -10,6 +10,7 @@ sale2 = { price: 40, taxRate: 10 };
 sale3 = { price: 120, taxRate: 20 };
 sale4 = { price : 150, taxRate: 25 };
 
+
 sale1.tax = sale1.price * sale1.taxRate / 100;
 sale2.tax = sale2.price * sale2.taxRate / 100;
 sale3.tax = sale3.price * sale3.taxRate / 100;

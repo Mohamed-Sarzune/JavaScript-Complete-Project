@@ -37,6 +37,7 @@ console.log("Hello, I am " + blogpost.name + " and I am the creator of the blogp
 
 
 
+
 /* Further Adventures
  *
  * 1) Add a second movie and display the same info for it.

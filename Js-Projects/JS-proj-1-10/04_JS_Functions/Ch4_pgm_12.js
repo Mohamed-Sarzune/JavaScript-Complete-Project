@@ -48,6 +48,7 @@ displaySale(sale1, sale2, sale3, sale4);
 
 
 
+
 /* Further Adventures
  *
  * 1) Add a fourth sale object.

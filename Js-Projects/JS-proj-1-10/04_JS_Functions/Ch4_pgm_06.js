@@ -8,6 +8,7 @@ sayHello = function () {
 
 sayHello();
 sayHello();
+
 sayHello();
 
 var message;
