@@ -13,6 +13,7 @@ var bigPlanet = getBig(planet);
 
 console.log(planet + " becomes " + bigPlanet);
 
+
 var star = "SIRIUS";
 var smallStar = getSmall(star);
 

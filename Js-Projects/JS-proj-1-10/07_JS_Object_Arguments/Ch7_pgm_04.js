@@ -10,6 +10,7 @@ var rotate90;
 move = function (point, change) {
     return {
         x: point.x + change.x,
+        
         y: point.y + change.y
     };
 };

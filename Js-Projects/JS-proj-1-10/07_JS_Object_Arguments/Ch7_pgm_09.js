@@ -8,6 +8,7 @@ console.log(message.substr(charIndex, 3));
 console.log("\nFurther Adventures:");
 
 var startIndex = message.indexOf("go");
+
 console.log("1) Index where 'go' starts:", startIndex);
 
 var startIndexOfChoose = message.indexOf("choose");

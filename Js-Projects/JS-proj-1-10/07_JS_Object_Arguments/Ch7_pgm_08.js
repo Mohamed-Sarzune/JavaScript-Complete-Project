@@ -11,6 +11,7 @@ console.log("4) " + message.substring(19)); // Logs "Moon!"
 
 console.log("\nUsing negative numbers as arguments:");
 console.log("5) " + message.substring(-5));    // Logs "Moon!"
+
 console.log("6) " + message.substring(-12, 6)); // Logs "go to the"
 console.log("7) " + message.substring(-23, 10)); // Logs "We choose"
 

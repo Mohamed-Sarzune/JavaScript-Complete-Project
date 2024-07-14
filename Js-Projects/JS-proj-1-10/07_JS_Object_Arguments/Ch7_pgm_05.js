@@ -11,6 +11,7 @@ var showLarger = function (num1, num2) {
     var smaller = Math.min(num1, num2);
     var larger = Math.max(num1, num2);
 
+    
     console.log(larger + " is larger than " + smaller);
 };
 

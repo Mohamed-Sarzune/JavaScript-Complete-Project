@@ -11,6 +11,7 @@ planet1 = {
     sizeRank: 1
 };
 
+
 planet2 = {
     name: "Mars",
     position: 4,

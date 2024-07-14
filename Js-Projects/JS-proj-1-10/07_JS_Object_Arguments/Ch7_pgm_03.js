@@ -10,6 +10,7 @@ buildCar = function (make, model, year, color) {
         make: make,
         model: model,
         year: year,
+        
         color: color
     };
 };

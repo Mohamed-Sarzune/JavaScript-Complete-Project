@@ -12,6 +12,7 @@ console.log(line(30));
 console.log(line(40));
 console.log(line(50));
 
+
 console.log("\nTesting line lengths from -20 to 60 in steps of 10:");
 for (var length = -20; length <= 60; length += 10) {
   console.log(line(length));
