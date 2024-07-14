@@ -9,6 +9,7 @@ showMessage = function (message) {
 };
 
 showMessage("It's full of stars!");
+
 showMessage("Hello to Jason Isaacs");
 showMessage("Hello to Jason Isaacs and Stephen Fry");
 

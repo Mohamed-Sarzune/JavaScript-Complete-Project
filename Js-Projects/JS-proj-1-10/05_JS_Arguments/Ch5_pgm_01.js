@@ -7,6 +7,7 @@ message = "It's full of stars!";
 
 showMessage = function () {
     console.log(message);
+    
 };
 
 

@@ -8,6 +8,7 @@ showPlayerHealth = function (playerName, playerHealth, playerHealthMultiplier) {
     console.log(playerName + " has health " + adjustedHealth);
 };
 
+
 var player1 = {
     name: "Kandra",
     place: "The Dungeon of Doom",

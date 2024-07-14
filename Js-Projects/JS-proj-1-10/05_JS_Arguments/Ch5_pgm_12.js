@@ -9,6 +9,7 @@ showPlayerPlace = function (playerName, playerPlace) {
 var player1 = {
     name: "Kandra",
     place: "The Dungeon of Doom",
+    
     health: 50
 };
 

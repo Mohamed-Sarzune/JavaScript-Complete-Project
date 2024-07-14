@@ -9,6 +9,7 @@ showPlayerHealth = function (playerName, playerHealth) {
 };
 
 
+
 showPlayerHealth("Kandra", 50);
 showPlayerHealth("Dax", 40);
 

@@ -7,6 +7,7 @@ showPlayerName = function (playerName) {
     console.log(playerName + " has " + playerName.length + " letters.");
 };
 
+
 showPlayerName("Kandra");
 showPlayerName("Dax");
 

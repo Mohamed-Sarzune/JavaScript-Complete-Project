@@ -9,6 +9,7 @@ var showBlankLine = function () {
 };
 
 var showPlayerName = function (playerName) {
+    
     console.log(playerName);
 };
 

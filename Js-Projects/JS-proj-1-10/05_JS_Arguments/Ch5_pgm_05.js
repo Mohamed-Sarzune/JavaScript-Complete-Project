@@ -9,6 +9,7 @@ square = function (numberToSquare) {
 };
 
 square(10);
+
 square(-2);
 square(1111);
 square(0.5);
