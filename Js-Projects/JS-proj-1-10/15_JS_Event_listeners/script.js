@@ -11,6 +11,7 @@ document.addEventListener("DOMContentLoaded", function() {
           // Classify number as even, odd, or prime
           if (i % 2 === 0) {
               numberBox.classList.add("even");
+              
           } else {
               numberBox.classList.add("odd");
           }
