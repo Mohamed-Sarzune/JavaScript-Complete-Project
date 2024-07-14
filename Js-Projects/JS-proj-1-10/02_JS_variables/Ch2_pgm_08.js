@@ -16,6 +16,8 @@ message = "Congratulations..! You won with a successful splat score of " + score
 console.log(message);
 
 
+
+
 /* Further Adventures
  *
  * The player splats a kumquat.

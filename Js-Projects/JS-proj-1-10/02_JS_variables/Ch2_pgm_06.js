@@ -12,6 +12,7 @@ console.log(playerName + " is in " + locationName);
 console.log(playerName + " has a score of " + score);
 
 
+
 /* Further Adventures
  *
  * 1) Declare a score variable.

@@ -3,6 +3,7 @@
 var score;
 score = 100;
 score = 90;
+
 /* Further Adventures
  *
  * 1) Click Run on the JS Bin Console panel.

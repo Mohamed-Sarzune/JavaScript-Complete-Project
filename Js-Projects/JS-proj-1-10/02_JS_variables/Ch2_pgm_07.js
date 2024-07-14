@@ -8,6 +8,7 @@ message = playerName + " has a health "+ health + " and is in " + locationName;
 console.log(message);
 
 
+
 /* Further Adventures
  *
  * 1) Declare a health variable and assign it
