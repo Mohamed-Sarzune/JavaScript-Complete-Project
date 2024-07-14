@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
   const countriesContainer = document.getElementById("countriesContainer");
+  
 
 
   // Array of countries

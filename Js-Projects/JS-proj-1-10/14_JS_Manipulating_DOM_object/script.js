@@ -9,6 +9,7 @@ function isPrime(num) {
       i += 6;
   }
   return true;
+  
 }
 
 // Function to create numbers and append to container with styles
