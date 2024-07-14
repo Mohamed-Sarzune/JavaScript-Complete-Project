@@ -4,6 +4,7 @@ var getGame = function () {
 
     // The spacer namespace
   
+    
     var spacer = {
       blank: function () {
         return "";

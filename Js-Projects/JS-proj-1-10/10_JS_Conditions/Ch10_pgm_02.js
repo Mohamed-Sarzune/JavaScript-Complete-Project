@@ -8,6 +8,7 @@ var guess = function (userNumber) {
   } else {
     console.log("Unlucky, try again.");
   }
+    
 };
 */
 

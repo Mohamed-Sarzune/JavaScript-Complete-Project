@@ -6,6 +6,7 @@ var getQuiz = function () {
         inPlay = true,
         questions,
         next,
+        
         getQuestion,
         checkAnswer,
         submit;

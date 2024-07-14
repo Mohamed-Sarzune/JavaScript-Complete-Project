@@ -9,6 +9,7 @@ var guess = function (userNumber) {
 };
 */
 
+
 //futures
 var secret = 8;
 
