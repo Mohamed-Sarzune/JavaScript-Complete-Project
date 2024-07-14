@@ -6,6 +6,7 @@ var buildPlanet = function (name, position, type) {
     planet.name = name;
     planet.position = position;
     planet.type = type;
+    
 
     planet.showPlanet = function () {
         var info = planet.name;

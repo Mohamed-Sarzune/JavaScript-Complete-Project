@@ -8,6 +8,7 @@ var buildPlanet = function (name, position, type) {
     planet.type = type;
   
     return planet;
+    
 };
 
 var planet1 = buildPlanet(

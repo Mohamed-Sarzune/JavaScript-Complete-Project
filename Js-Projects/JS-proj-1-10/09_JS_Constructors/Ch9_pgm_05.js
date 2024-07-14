@@ -7,7 +7,8 @@ var Planet = function (name, position, type) {
     this.moons = [];
   
     this.showPlanet = function () {
-        var info = this.name + ": planet " + this.position;
+        var info = this.name + ": planet " + 
+        this.position;
         info +=  " - " + this.type;
         console.log(info);
         console.log("Moons: " + this.moons.join(', ') + ".");

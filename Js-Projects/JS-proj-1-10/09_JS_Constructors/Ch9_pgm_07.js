@@ -7,6 +7,7 @@ var QuizQuestion = function (question, answer) {
   
     this.addOption = function (option) {
         this.options.push(option);
+        
     };
   
     this.showQuestion = function () {

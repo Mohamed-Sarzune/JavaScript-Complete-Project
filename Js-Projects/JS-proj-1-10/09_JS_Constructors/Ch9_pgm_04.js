@@ -8,6 +8,7 @@ var Planet = function (name, position, type) {
     this.showPlanet = function () {
         var info = this.name + ": planet " + this.position;
         info +=  " - " + this.type;
+        
         console.log(info);
     };
 };

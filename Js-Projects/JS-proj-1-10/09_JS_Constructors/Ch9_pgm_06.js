@@ -4,6 +4,7 @@ var Planet = function (name, position, type) {
     this.position = position;
     this.type = type;
     this.moons = [];
+    
   
     this.showPlanet = function () {
         console.log(this.name);

@@ -11,6 +11,7 @@ var CalendarEvent = function (title, startDate, startTime, endTime) {
             this.startDate,
             ", from ",
             this.startTime,
+            
             " to ",
             this.endTime
         ].join("");
