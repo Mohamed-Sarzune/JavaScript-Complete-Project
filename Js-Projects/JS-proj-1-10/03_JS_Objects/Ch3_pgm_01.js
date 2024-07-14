@@ -19,6 +19,7 @@ console.log(bookTitle1 + " by " + bookAuthor1);
 console.log(bookTitle2 + " by " + bookAuthor2);
 console.log(bookTitle3 + " by " + bookAuthor3);
 
+
 /* Further Adventures
  *
  * 1) Declare variables for a second book

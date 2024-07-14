@@ -18,6 +18,7 @@ var post2 = {
 };
 console.log(post2.id + ": " + post2.title + " is written by " + post2.author + " on " + post2.created + " and " + post2.body);
 
+
 /* Further Adventures
  *
  * 1) Display some of the properties.

@@ -26,6 +26,7 @@ console.log(book1.title + " by " + book1.author + "published on " + book1.publis
 console.log(book2.title + " by " + book2.author + "published on " + book2.published);
 console.log(book3.title + " by " + book3.author + "published on " + book3.published);
 
+
 /* Further Adventures
  *
  * 1) Add a third book.

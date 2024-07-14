@@ -24,6 +24,7 @@ console.log(book2.author);
 console.log(book2.published);
 
 
+
 /* Further Adventures
  *
  * 1) Log the published property to the console.

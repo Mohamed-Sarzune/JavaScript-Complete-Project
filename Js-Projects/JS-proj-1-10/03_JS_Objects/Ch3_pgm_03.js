@@ -20,6 +20,7 @@ console.log(book);
 console.log(book2);
 
 
+
 /* Further Adventures
  *
  * 1) Change the title of book to

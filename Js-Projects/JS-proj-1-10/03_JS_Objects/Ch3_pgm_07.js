@@ -19,6 +19,7 @@ console.log(book1);
 console.log(book2);
 
 
+
 /* Further Adventures
  *
  * 1) Add a third property to each book.

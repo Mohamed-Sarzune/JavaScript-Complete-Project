@@ -30,6 +30,7 @@ console.log("Items: " + player2.items);
 
 
 
+
 /* Further Adventures
  *
  * 1) Create a second player.
