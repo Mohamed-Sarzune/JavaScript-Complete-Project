@@ -4,6 +4,7 @@ var score;
 var mark;
 var mark2;
 
+
 /* Further Adventures
  *
  * 1) Delete the semicolon at after the word score.
